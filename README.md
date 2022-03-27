@@ -6,16 +6,6 @@ I am a down-to-earth colleague and care deeply about helping other developers gr
 
 When not coding, I am probably cooking or eating; I'd say that food is my passion! I particularly enjoy making ramen and pasta.
 
-### Stack 🥞 
-- node.js/koa.js + express.js
-- React (emotion/styled-components)
-- Jest
-
-### Learning 🚌
-- TypeScript
-- Python (numpy, Pandas)
-- SQL
-
 ### Reach out 📥
 - [LinkedIn](https://www.linkedin.com/in/angiesiu/)
 - [Medium](https://medium.com/@siuangie91)
