@@ -1,4 +1,4 @@
-## Hi! I'm Angie. 👋 
+## Hi! I'm Sammy. 👋 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/angiesiu/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siuangie91)
